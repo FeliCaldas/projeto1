@@ -64,3 +64,7 @@ footer {
     width: 100%;
     text-align: center;
 }
+.secao img{
+    max-width: 100%;
+    height: auto;
+}
